@@ -1,0 +1,14 @@
+playwright
+aiohttp
+beautifulsoup4
+lxml
+
+# Data processing and analysis
+pandas
+numpy
+
+# Dashboard
+streamlit
+matplotlib
+seaborn
+plotly
